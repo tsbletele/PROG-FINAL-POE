@@ -34,4 +34,5 @@ The Recipe App is a Windows Presentation Foundation (WPF) application that allow
 Clone the repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/yourusername/recipe-app-wpf.git
+
+https://github.com/tsbletele/PROG-FINAL-POE
