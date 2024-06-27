@@ -19,7 +19,15 @@ The Recipe App is a Windows Presentation Foundation (WPF) application that allow
 - .NET SDK (version 5.0 or higher)
 - Visual Studio 2019 or higher (with WPF development workload installed)
 
-## Getting Started
+## How to Use
+1. Clone or download the RecipeApp repository to your local machine.
+
+2. Open the solution file (RecipeApp.sln) in Visual Studio. Alternatively, you can navigate to the directory containing the source code and open a terminal/command prompt.
+
+3. Build the solution to ensure all dependencies are resolved.
+
+4. Run the application by pressing F5 in Visual Studio.
+
 
 ### Cloning the Repository
 
